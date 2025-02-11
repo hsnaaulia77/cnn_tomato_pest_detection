@@ -1,5 +1,4 @@
 # cnn_tomato_pest_detection
-# Nama Proyek
 Convolutional Neural Network (CNN) pada Tanaman Tomat
 
 Convolutional Neural Network (CNN) adalah jenis jaringan saraf tiruan yang sangat efektif dalam analisis citra atau gambar. Dalam konteks tanaman tomat, CNN digunakan untuk menganalisis gambar atau foto tanaman guna mendeteksi berbagai kondisi, seperti kesehatan tanaman, keberadaan penyakit, atau bahkan memantau perkembangan buah tomat.
